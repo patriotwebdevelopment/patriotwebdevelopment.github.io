@@ -459,8 +459,7 @@ csmall2 {
 	font-size: 18px;
 }
 
-#logo-container{
-	background: url('..assets/img/patriot.PNG');
+#navbar-brand img{
 	height: 100px;
     width: 218px;
 }
