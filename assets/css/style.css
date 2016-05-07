@@ -459,7 +459,8 @@ csmall2 {
 	font-size: 18px;
 }
 
-a.navbar-brand img{
+a.navbar-brand{
+	background: url('..assets/img/patriot.PNG');
+	height: 100px
     width: 218px;
-    margin-top: -25px;
 }
