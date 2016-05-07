@@ -461,7 +461,7 @@ csmall2 {
 
 
 
-.navbar-brand {
+a.navbar-brand {
     width: 200px;
     margin-top: -19px;
 }
