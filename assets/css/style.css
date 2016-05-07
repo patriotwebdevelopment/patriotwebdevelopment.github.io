@@ -459,7 +459,9 @@ csmall2 {
 	font-size: 18px;
 }
 
-#navbar-brand img{
-	height: 100px;
-    width: 218px;
+
+
+.navbar-brand {
+    width: 200px;
+    margin-top: -19px;
 }
