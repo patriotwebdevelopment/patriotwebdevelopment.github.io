@@ -116,8 +116,8 @@ a:focus {
 }
 
 .navbar-default {
-	background-color: #384452;
-	border-color: transparent;
+	background-color: #fff;
+	border-color: #fff;
 }
 
 .dropdown-menu {
@@ -457,4 +457,9 @@ csmall2 {
 .share i {
 	padding-right: 15px;
 	font-size: 18px;
+}
+
+a.navbar-brand img{
+    width: 218px;
+    margin-top: -25px;
 }
